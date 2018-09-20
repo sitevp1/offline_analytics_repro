@@ -48,5 +48,6 @@ The request in the indexedDB is replayed and the indexedDB entry is cleared.
 
 Reconnect to network and load page.
 The request in the indexedDB is not replayed and the indexedDB entry is not cleared.
+
 -----------
 
