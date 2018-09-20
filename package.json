@@ -1,0 +1,14 @@
+{
+  "name": "test-analytics",
+  "version": "1.0.0",
+  "description": "Service Worker Sample: Read-through Caching (w/Offline Analytics)\r ===\r See https://googlechrome.github.io/samples/service-worker/offline-analytics/index.html for a live demo.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
